@@ -12,13 +12,11 @@ https://www.linkedin.com/in/karl-johan-sj%C3%B6gren-59a71949/
 
 ## Nyckelkompetenser
 
-Utvecklat i C# sen version 1.1 och Javacript sen IE6-tiden. Starkt fokus på webblösningar av olika slag men har även byggt windows-applikationer och rena backends med APIer.
+Utvecklat i C# sen version 1.1 och Javacript sen IE6-tiden upp till dagens versioner. Starkt fokus på webblösningar av olika slag men har även byggt windows-applikationer och rena backends med APIer.
 
 Föredrar att vara inblandad genom hela systemet i allt från frontend och backend till externa integrationer istället för att vara låst till en liten del av systemet.
 
 Försöker att alltid ha både UX och tillgänglighet i åtanke samt att se över formuleringar i texter m.m. för att hålla saker enkelt och tydligt för slutanvändaren.
-
-
 
 ## Arbetslivserfarenhet
 
@@ -62,3 +60,6 @@ Första jobbet som utvecklare, arbetet fokuserade på utveckling med Teknikhuset
 
 Utbildningen kallas i folkmun "Brandmannautbildning" men innefattar även mycket förebyggande och systematiskt brandskyddsarbete.
 
+
+---
+https://github.com/karl-sjogren/cv/blob/master/cv-sv.md
