@@ -7,8 +7,11 @@
 
 **Webb:**  
 https://stackoverflow.com/story/karlsjogren  
+
 https://github.com/karl-sjogren/  
+
 https://www.nuget.org/profiles/karl.sjogren
+
 https://www.linkedin.com/in/karl-johan-sj%C3%B6gren-59a71949/
 
 ## Nyckelkompetenser
