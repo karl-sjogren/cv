@@ -16,7 +16,7 @@ https://www.linkedin.com/in/karl-johan-sj%C3%B6gren-59a71949/
 
 ## Nyckelkompetenser
 
-Utvecklat i C# sen version 1.1 och Javacript sen IE6-tiden upp till dagens versioner. Starkt fokus på webblösningar som integrerar mot andra system antingen via tredje parts APIer eller genom egna integrationsplatformar.
+Utvecklat i C# sen version 1.1 och Javascript sen IE5-tiden upp till dagens versioner. Starkt fokus på webblösningar som integrerar mot andra system antingen via tredje parts APIer eller genom egna integrationsplatformar.
 
 Är en stark förespråkare för Open Source och förutom att släppa det mesta som kodas privat öppet så har även pull requests skickats till diverse projekt för att fixa buggar eller lägga till nya funktioner.
 
