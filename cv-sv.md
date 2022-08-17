@@ -6,9 +6,9 @@
 **E-post:** karl.sjogren@gmail.com
 
 **Webb:**  
-https://stackoverflow.com/story/karlsjogren  
+https://github.com/karl-sjogren/
 
-https://github.com/karl-sjogren/  
+https://stackoverflow.com/users/547640/karl-johan-sj%c3%b6gren
 
 https://www.nuget.org/profiles/karl.sjogren
 
